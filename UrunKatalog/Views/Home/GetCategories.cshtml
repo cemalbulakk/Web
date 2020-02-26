@@ -1,0 +1,57 @@
+﻿@model IEnumerable<UrunKatalog.Entity.Category>
+
+@{
+    var SelectedCategory = Url.RequestContext.RouteData.Values["id"];
+}
+
+
+<ul class="list-group">
+    <div class="list-group">
+        <a href="/Home/List/" class="list-group-item list-group-item-action">
+            <i class="fa fa-angle-double-right"></i>
+            Tüm Kategoriler
+        </a>
+    </div>
+    
+    @foreach (var item in Model)
+    {
+        if (SelectedCategory != null)
+        {
+            if (item.Id == int.Parse(SelectedCategory.ToString()))
+            {
+                //Seçilen kategori ile routeId birbirine eşit.
+                <div class="list-group">
+                    <a href="/Home/List/@item.Id" class="list-group-item list-group-item-action active">
+                        <i class="fa fa-angle-double-right"></i>
+                        @item.Name
+                    </a>
+                </div>
+
+            }
+            else
+            {
+                <div class="list-group">
+                    <a href="/Home/List/@item.Id" class="list-group-item list-group-item-action">
+                        <i class="fa fa-angle-double-right"></i>
+                        @item.Name
+                    </a>
+
+                </div>
+
+            }
+        }
+        else
+        {
+            <div class="list-group">
+                <a href="/Home/List/@item.Id" class="list-group-item list-group-item-action">
+                    <i class="fa fa-angle-double-right"></i>
+                    @item.Name
+                </a>
+
+            </div>
+
+        }
+
+
+    }
+</ul>

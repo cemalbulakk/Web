@@ -1,0 +1,105 @@
+﻿@model IEnumerable<UrunKatalog.Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+<div class="container mt-5">
+
+
+<h2 class="h2 display-4">Ürünler</h2>
+<hr />
+<p>
+    @Html.ActionLink("Ürün Ekle", "Create",null,new {@class = "btn btn-primary"})
+</p>
+<table class="table table-striped text-center">
+    <tr class="">
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+        <th style="width: 12%;">
+            @Html.DisplayNameFor(model => model.Category.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.IsHome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsApproved)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.Image)*@
+            <img src="/Upload/@item.Image" style="width: 60px; height: 60px;"/>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Category.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)₺
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Stock)
+        </td>
+
+        <td>
+            @if (item.IsHome)
+            {
+                <label class="badge badge-success">
+                    <i class="fa fa-home"></i>
+                </label>
+            }
+            else
+            {
+                <label class="badge badge-danger">
+                    <i class="fa fa-times"></i>
+                </label>
+            }
+        </td>
+        <td>
+            @if (item.IsApproved)
+            {
+                <label class="badge badge-success">
+                    <i class="fa fa-check-circle"></i>
+                </label>
+
+            }
+            else
+            {
+                <label class="badge badge-danger">
+                    <i class="fa fa-times"></i>
+                </label>
+            }
+            </td>
+        <td style="width: 14%;">
+            @Html.ActionLink("Düzenle", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })
+            @Html.ActionLink("Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>
+</div>
