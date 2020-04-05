@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Z7c8i7kO6SZsKDMgxN3x5irM0OZwjOvzWsXgEOwp1VluXMar33GZSj1Cfr88qFYzPxA3fw/+zu4XMTpl97s9A==",
+  "success": true,
+  "projectFilePath": "E:\\SİLME D\\Web Devoloper\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\cemal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

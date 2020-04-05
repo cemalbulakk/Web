@@ -1,0 +1,42 @@
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.deps.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfo.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CopyComplete
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.deps.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csprojAssemblyReference.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CoreCompileInputs.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfoInputs.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfo.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CopyComplete
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.deps.json
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csprojAssemblyReference.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CoreCompileInputs.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfoInputs.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.AssemblyInfo.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.csproj.CopyComplete
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.Business\obj\Debug\netcoreapp2.2\ShopApp.Business.pdb

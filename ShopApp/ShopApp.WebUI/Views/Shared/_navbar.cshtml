@@ -1,0 +1,89 @@
+﻿
+
+<nav class="navbar navbar-expand-lg bg-light fixed-top topnav" id="myTopnav">
+    <div class="container">
+        <a class="navbar-brand" href="/"><i class="fab fa-shopware"></i> Shopping</a>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a href="/" class="nav-link active"><i class="fas fa-home"></i> Home</a>
+            </li>
+            <li class="nav-item">
+                <a asp-controller="Shop" asp-action="List" class="nav-link"><i class="fab fa-product-hunt"></i> Products</a>
+            </li>
+            @*<div class="col-md-3">
+                    @await Component.InvokeAsync("CategoryList")
+                </div>*@
+            <div class="dropdown">
+                <button class="btn btn-light dropdown-toggle" type="button" data-toggle="dropdown">
+                    <i class="fa fa-bars"></i> Categories
+                    <span class="caret"></span>
+                </button>
+               
+                <li class="dropdown-menu">
+                    @await Component.InvokeAsync("CategoryList")
+                </li>
+            </div>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="nav-item">
+                    <a asp-controller="Cart" asp-action="Index" class="nav-link"><i class="fas fa-cart-plus"></i> Cart</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Cart" asp-action="GetOrders" class="nav-link"><i class="fas fa-indent"></i> Orders</a>
+                </li>
+                if (User.IsInRole("admin"))
+                {
+                    <div class="dropdown">
+                        <button class="btn btn-light dropdown-toggle" type="button" data-toggle="dropdown">
+                            <i class="fas fa-users-cog"></i> Admin Menu
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item">
+                                <a asp-controller="Admin" asp-action="CreateProduct" class="nav-link"><i class="fas fa-plus"></i> Add Product</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-controller="Admin" asp-action="ProductList" class="nav-link"><i class="fas fa-list"></i> Product List</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-controller="Admin" asp-action="CreateCategory" class="nav-link"><i class="fas fa-plus"></i> Add Category</a>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-controller="Admin" asp-action="CategoryList" class="nav-link"><i class="fas fa-grip-horizontal"></i> Admin Categories</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                }
+            }
+        </ul>
+
+        <ul class="navbar-nav ml-auto">
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Manage" class="nav-link">
+                        <i class="fas fa-user"></i> @User.Identity.Name
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Logout" class="nav-link"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                </li>
+            }
+            else
+            {
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Login" class="nav-link "><i class="fas fa-sign-in-alt"></i> Login</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Account" asp-action="Register" class="nav-link"><i class="fas fa-registered"></i> Register</a>
+                </li>
+            }
+           
+        </ul>
+        
+    </div>
+    
+</nav>

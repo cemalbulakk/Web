@@ -1,0 +1,45 @@
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.genruntimeconfig.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.genruntimeconfig.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,164 @@
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.deps.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.dev.json
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csprojAssemblyReference.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfo.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.input.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.output.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorCoreGenerate.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.genruntimeconfig.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Accessdenied.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\GetOrders.cshtml.g.cs
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_jumbotron.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package-lock.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\package.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.deps.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.runtimeconfig.dev.json
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Business.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfo.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.input.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.output.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Accessdenied.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\GetOrders.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Success.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_jumbotron.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_product.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\List.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.Views.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CopyComplete
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.genruntimeconfig.cache
+D:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\bin\Debug\netcoreapp2.2\Razor\Home\Index.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csprojAssemblyReference.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorAssemblyInfo.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfoInputs.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.AssemblyInfo.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.input.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.TagHelpers.output.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorCoreGenerate.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.dll
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.pdb
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Accessdenied.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CategoryList.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditCategory.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\EditProduct.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Admin\ProductList.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Checkout.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\GetOrders.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Success.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_jumbotron.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_product.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_resultmessage.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_slider.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\Details.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\Shop\List.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\Razor\bin\Debug\netcoreapp2.2\Razor\Home\Index.cshtml.g.cs
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+E:\SİLME D\Web Devoloper\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp2.2\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
